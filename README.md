@@ -82,7 +82,6 @@ st=>start: START
 op=>operation: Your Operation
 cond=>condition: Yes or No?
 e=>end
-
 st->op->cond
 cond(Yes)->e
 cond(No)->op
