@@ -79,5 +79,10 @@
 
 ```flow
 	st=>start: START
+	op=>operation: 操作
+	io=>inputoutput: 显示输出
+	e=>end
+
+	st->op->io->e
 ```
 
