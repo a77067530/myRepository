@@ -2,6 +2,10 @@
 
 int main(void)
 {
-	printf("first push function.c");
+
+	printf("fjsalfjlwakl..\n");
+	
+	printf("fjsalfjlwakl..\n");
+	printf("fjsalfjlwakl..\n");
 	return 0;
 }
