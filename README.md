@@ -78,11 +78,9 @@
 ## \`\`\`flow 流程内容 \`\`\` ,绘制流程图
 
 ```flow
-	st=>start: START
-	op=>operation: 操作
-	io=>inputoutput: 显示输出
-	e=>end
+st=>start: START
+op=>operation: 操作
 
-	st->op->io->e
+st->op
 ```
 
