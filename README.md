@@ -79,8 +79,12 @@
 
 ```flow
 st=>start: START
-op=>operation: 操作
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
 
-st->op
+st->op->cond
+cond(Yes)->e
+cond(No)->op
 ```
 
