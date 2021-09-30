@@ -51,7 +51,7 @@
 >> TREE_02
 >>> TREE_03
 
-## 使用```语言 代码内容``` 格式加入代码块
+## 使用\`\`\`语言 代码内容\`\`\` 格式加入代码块
 
 ```c
 	#include <stdio.h>
@@ -75,5 +75,9 @@
 	sudo apt-get install git #安装git的命令
 ```
 
+## \`\`\`flow 流程内容 \`\`\` ,绘制流程图
 
+```flow
+	st=>start: START
+```
 
