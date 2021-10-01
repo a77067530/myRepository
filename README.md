@@ -75,7 +75,7 @@
 	sudo apt-get install git #安装git的命令
 ```
 
-## \`\`\`flow 流程内容 \`\`\` ,绘制流程图
+
 
 ```flow
 st=>start: 开始
@@ -90,3 +90,13 @@ c3(no)->e
 c1(yes,right)->c2(yes,right)->c3(yes,right)->io
 io->e
 ```
+
+## 在文章中插入链接
+
+[GitHub官方网站](https://github.com "点击即可进入网站")
+
+
+
+## 在文章中插入一张图片
+
+![截图](C:/Users/77067/Desktop/test.jpg)
